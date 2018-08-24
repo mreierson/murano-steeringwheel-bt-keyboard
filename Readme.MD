@@ -4,8 +4,8 @@ Adafruit Feather board for interfacing with the Murano computer to convert steer
 
 ## Notes
 
-SIG_YELLOW = Wire #6 - Steering Wheel Signal A
-SIG_BLUE = Wire #16 - Steering Wheel Signal B
-SIG_GND = Wire #15 - Steering Wheel Signal GND
+SIG_YELLOW = Wire #6 - Steering Wheel Signal A  
+SIG_BLUE = Wire #16 - Steering Wheel Signal B  
+SIG_GND = Wire #15 - Steering Wheel Signal GND  
 
-Buttons produce a 1-5V which is level-converted with resistor divider and connected to two analog inputs on the Feather. 
+Buttons produce a 1-5V which is level-converted with resistor divider and connected to two analog inputs on the Feather.
